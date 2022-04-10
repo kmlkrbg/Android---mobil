@@ -1,5 +1,0 @@
-Public class deneme {
-  Public static void main(String [] args){
-    System.out.println("merhaba java dünyası");
-  }
-}
